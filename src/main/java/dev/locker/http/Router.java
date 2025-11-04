@@ -84,4 +84,8 @@ public class Router {
     private static String decode(String s) {
         return s.replace("+", " ");
     }
+
+    public void registerStatsOverdue(HttpHandler handler) {
+        registerGet("/stats/overdue", handler);
+    }
 }
