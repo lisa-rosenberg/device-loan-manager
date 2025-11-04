@@ -26,8 +26,7 @@ public class StatsHandler implements HttpHandler {
     }
 
     /**
-     * Handle an incoming HTTP request for stats endpoints. Supports /stats/popular and
-     * (in feature branches) /stats/overdue.
+     * Handle an incoming HTTP request for stats endpoints.
      *
      * @param exchange the HTTP exchange representing request and response
      * @throws IOException on I/O errors while reading/writing the exchange
