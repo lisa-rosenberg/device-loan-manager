@@ -1,0 +1,34 @@
+[
+  {
+    "id": "d-001",
+    "name": "Dell Latitude 5550",
+    "tags": [
+      "dev",
+      "windows",
+      "laptop"
+    ],
+    "condition": "GOOD",
+    "timesBorrowed": 12
+  },
+  {
+    "id": "d-002",
+    "name": "MacBook Air M2",
+    "tags": [
+      "mac",
+      "design",
+      "laptop"
+    ],
+    "condition": "GOOD",
+    "timesBorrowed": 7
+  },
+  {
+    "id": "d-003",
+    "name": "Logitech C920 Cam",
+    "tags": [
+      "meeting",
+      "camera"
+    ],
+    "condition": "FAIR",
+    "timesBorrowed": 4
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "deviceId": "d-001",
+    "userId": "u-101",
+    "borrowedAt": "2025-10-01T09:00:00Z",
+    "dueAt": "2025-10-08T09:00:00Z",
+    "returnedAt": null
+  },
+  {
+    "deviceId": "d-003",
+    "userId": "u-102",
+    "borrowedAt": "2025-10-10T12:00:00Z",
+    "dueAt": "2025-10-17T12:00:00Z",
+    "returnedAt": "2025-10-16T15:30:00Z"
+  }
+]
